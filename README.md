@@ -37,8 +37,7 @@
 
 ---
 
-## 📈 GitHub Stats  
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=willyoung21&show_icons=true&theme=radical)  
+## 📈 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willyoung21&layout=compact&theme=radical)
 
 ---
